@@ -1,0 +1,25 @@
+.section-intro {
+  display: block;
+  width: 48.2%;
+  height: calc(25.34722*1vw);
+  z-index: 1;
+  margin: 0 auto;
+  max-width: 500px;
+  padding: calc(5.55556*1vw) calc(6.94444*1vw) calc(2.77778*1vw);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.section-intro__title {
+  display: block;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
+
+p {
+  font-size: calc(1.04167*1.2vw);
+}
